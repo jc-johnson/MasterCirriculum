@@ -76,6 +76,8 @@ Debugging
 		What is actually occuring? What are you
 		expecting? Look and verify, what is	
 		actually going on?
+	Get used to reading scary console errors
+		Google what each error is
 	
 Java:
 	everything is an object
