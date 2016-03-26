@@ -18,6 +18,14 @@ Algorithms:
 General
 	Digging in:
 		projects that you didn't start from scratch
+		Look at other methods that do something similar
+			or use the same objects
+		Ask other devs what object can be leveraged
+		understand overall architecture of what 
+			you're trying to do
+		understand core programming language you're 
+			using
+		
 	Abstraction is at the heart of computer programming
 	Read about different languages' architecture - learn
 		why a certain language is useful
