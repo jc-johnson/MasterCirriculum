@@ -57,7 +57,7 @@ Git
 	manually resolve conflicts
 	get good at command line before using GUI
 	work with branches
-	fetch, revert, reset
+	fetch, revert, reset, stash
 
 Debugging
 	Another skill in itself besides programming
