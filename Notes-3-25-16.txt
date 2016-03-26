@@ -1,0 +1,128 @@
+Master Cirriculum
+
+Helpful ideas: 
+
+Learning how to write well in English
+	Central to expression and understanding
+		you will have to understand manuals
+	Critical reading
+	logic development
+
+Learning how to draw:
+	Drawing is thinking.
+	From 'Mastery' - importance of visualization
+
+Algorithms: 
+	draw it out - tutoring 
+
+General
+	Digging in:
+		projects that you didn't start from scratch
+	Abstraction is at the heart of computer programming
+	Read about different languages' architecture - learn
+		why a certain language is useful
+	Failure and frustration is how you learn - take
+		a break and come back to it
+	Set deadlines for yourself	
+	Once you learn one language well - learn many different
+		languages and build stuff in each one.
+	Read documentation 2 - 3x then try out what you read
+	Build something with what you read
+		don't just keep reading
+	Build you vocabulary of technologies
+		build as many things as possible
+	Understand how to ask a hacker a question 
+		What specifically are you trying to do?
+		What did you try?
+		What were you expecting?
+		What actually happened?
+		Why did you thing that would work?
+		Post pictures and code snippets
+		Thank for any help
+	Learn your keyboard shortcuts!
+	3rd party Java apis
+		pay attention to what objects are
+		being returned and what method's 
+		a particular object can use
+		
+Architecture
+	What are you trying to accomplish?
+	What technologies can be leveraged?
+	Central parts of what you are building?
+	See microsoft architecture article
+		
+Git 
+	practice making a lot of repos
+	submit pull requests
+	manually resolve conflicts
+	get good at command line before using GUI
+	work with branches
+	fetch, revert, reset
+
+Debugging
+	Another skill in itself besides programming
+	Evaluator tool - One reason why IntelliJ 
+		is the best
+	Centered around Listeners, Events, and 
+		results. What throws a certain event? 
+		What is actually occuring? What are you
+		expecting? Look and verify, what is	
+		actually going on?
+	
+Java:
+	everything is an object
+	everything is a toolbox - learning how to hack article	
+	
+Must Reads:
+	Code 2nd Edition
+	Pragmatic Programmer
+	Algorithms in Java
+	Discrete mathematics
+	Art of Assembly - free online
+	Think like a programmer (do the exercises in 
+		a language you know - besides C++)
+	C programming language - free online, worth owning
+	Learn C the hard way - free Zed Shaw
+	C for Java Programmers - free
+	Debugging by David J. Agans
+	
+Essential Tools:
+	Jrebel - don't waste as much time on builds - 
+		you still may need to build sometimes with it
+	Sketch - visualization when explaining issues and
+		writing directions
+	Divvy - Windows management - demo is cool
+		worth buying
+	Ditto - copy and paste life saver
+	IntelliJ - best IDE currently for Java programming
+	Spotify - tunes
+	Notepad and Notepad++
+	
+	Fuck Vim and Emacs - 
+		learn the fundamentals and that's it
+		too high learning curve for too little reward
+		not portable to different work environments
+			emacs may change versions
+		emacs - more trouble than it's worth
+		just learn your keyboard shortcuts
+	
+	Bug Tracker
+	IRC - communication 
+	
+	Rocket - Learn Lisp!
+	Gimp - UX
+	
+		
+Math:
+	My current goal is the learn Calculus
+	Math is much easier to learn after you know how
+		to code 
+	Project Euler
+	Computer Science is simply applied mathematics
+		(see abstraction references)
+	After algebra/geometry learn discrete math
+		then learn trig, precalc, and calc
+	Certain puzzles (ex rubix cube) help develop
+		the same skills - TED talk
+	
+		
