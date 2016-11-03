@@ -52,6 +52,7 @@ General
 		pay attention to what objects are
 		being returned and what method's 
 		a particular object can use
+	Turn big problems into liitle problems
 		
 Architecture
 	What are you trying to accomplish?
